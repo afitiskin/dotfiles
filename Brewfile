@@ -1,4 +1,6 @@
+# tap
 tap 'caskroom/homebrew-cask'
+brew 'mas'
 
 # development services
 brew 'git'
@@ -27,7 +29,8 @@ cask 'firefox'
 # tools
 cask '1password'
 cask 'dropbox'
-cast 'transmission'
+cask 'transmission'
+mas "Monosnap", id: 540348655
 
 # messengers
 cask 'slack'
