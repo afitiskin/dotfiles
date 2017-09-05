@@ -5,7 +5,6 @@ brew "mas"
 
 # development services
 brew "git"
-brew "bash-completion"
 brew "node"
 brew "yarn"
 brew "mysql"
@@ -21,6 +20,9 @@ cask "sequel-pro"
 cask "dash"
 cask "macvim"
 cask "viscosity"
+
+brew "zsh"
+brew "zsh-completions"
 
 # browsers
 cask "google-chrome"
