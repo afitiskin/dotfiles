@@ -1,41 +1,42 @@
 # tap
-tap 'caskroom/homebrew-cask'
-brew 'mas'
+tap "caskroom/homebrew-cask"
+cask_args appdir: "/Applications"
+brew "mas"
 
 # development services
-brew 'git'
-brew 'bash-completion'
-brew 'node'
-brew 'yarn'
-brew 'mysql'
-brew 'nginx'
+brew "git"
+brew "bash-completion"
+brew "node"
+brew "yarn"
+brew "mysql"
+brew "nginx"
 
 # development tools
-brew 'vim'
-brew 'curl'
+brew "vim"
+brew "curl"
 
-cask 'webstorm'
-cask 'iterm2'
-cask 'sequel-pro'
-cask 'dash'
-cask 'macvim'
-cask 'viscosity'
+cask "webstorm"
+cask "iterm2"
+cask "sequel-pro"
+cask "dash"
+cask "macvim"
+cask "viscosity"
 
 # browsers
-cask 'google-chrome'
-cask 'opera'
-cask 'firefox'
+cask "google-chrome"
+cask "opera"
+cask "firefox"
 
 # tools
-cask '1password'
-cask 'dropbox'
-cask 'transmission'
+cask "1password"
+cask "dropbox"
+cask "transmission"
 mas "Monosnap", id: 540348655
 
 # messengers
-cask 'slack'
-cask 'telegram'
-cask 'hipchat'
+cask "slack"
+cask "telegram"
+cask "hipchat"
 
 # media
-cask 'spotify'
+cask "spotify"
