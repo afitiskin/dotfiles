@@ -1,5 +1,6 @@
 # tap
 tap "caskroom/homebrew-cask"
+tap "homebrew/services"
 cask_args appdir: "/Applications"
 brew "mas"
 

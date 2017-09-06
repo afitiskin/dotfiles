@@ -31,3 +31,6 @@ ln -s $PWD/.npmrc ~/.npmrc
 rm ~/.zshrc
 ln -s $PWD/.zshrc ~/.zshrc
 
+# run services
+brew services start mysql
+brew services start nginx
