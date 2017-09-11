@@ -21,6 +21,7 @@ cask "sequel-pro"
 cask "dash"
 cask "macvim"
 cask "viscosity"
+cask "sourcetree"
 
 brew "zsh"
 brew "zsh-completions"
