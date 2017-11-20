@@ -10,6 +10,7 @@ brew "node"
 brew "yarn"
 brew "mysql"
 brew "nginx"
+brew "gpg"
 
 # development tools
 brew "vim"
