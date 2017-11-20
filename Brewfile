@@ -11,6 +11,7 @@ brew "yarn"
 brew "mysql"
 brew "nginx"
 brew "gpg"
+brew "gpg2"
 
 # development tools
 brew "vim"
