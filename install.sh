@@ -25,9 +25,6 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 rm ~/.gitconfig
 ln -s $PWD/.gitconfig ~/.gitconfig
 
-rm ~/.npmrc
-ln -s $PWD/.npmrc ~/.npmrc
-
 rm ~/.zshrc
 ln -s $PWD/.zshrc ~/.zshrc
 
