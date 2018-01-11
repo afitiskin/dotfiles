@@ -24,6 +24,7 @@ cask "dash"
 cask "macvim"
 cask "viscosity"
 cask "sourcetree"
+cask "cyberduck"
 
 brew "zsh"
 brew "zsh-completions"
