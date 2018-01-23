@@ -44,6 +44,7 @@ mas "Monosnap", id: 540348655
 cask "slack"
 cask "telegram"
 cask "hipchat"
+cask "viber"
 
 # media
 cask "spotify"
