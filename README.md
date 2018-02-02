@@ -18,7 +18,7 @@
     ```bash
     git clone git@github.com:afitiskin/dotfiles.git ~/Settings
     ```
-10. Install zsh, brew and all brew staff
+10. Install zsh, brew and all brew stuff
     ```bash
     cd ~/Settings
     ./install.sh
