@@ -25,6 +25,7 @@ cask "macvim"
 cask "viscosity"
 cask "sourcetree"
 cask "cyberduck"
+mas "TextWrangler", id: 404010395
 
 brew "zsh"
 brew "zsh-completions"
