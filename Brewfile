@@ -16,6 +16,10 @@ brew "gpg2"
 brew "heroku"
 brew "openssl"
 cask "docker"
+brew "bash-completion"
+brew "docker-completion"
+brew "docker-compose-completion"
+brew "docker-machine-completion"
 
 # development tools
 brew "vim"
