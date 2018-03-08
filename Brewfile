@@ -15,7 +15,7 @@ brew "gpg"
 brew "gpg2"
 brew "heroku"
 brew "openssl"
-brew "docker"
+cask "docker"
 
 # development tools
 brew "vim"
