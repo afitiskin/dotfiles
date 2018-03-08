@@ -10,8 +10,12 @@ brew "node"
 brew "yarn"
 brew "mysql"
 brew "nginx"
+brew "redis"
 brew "gpg"
 brew "gpg2"
+brew "heroku"
+brew "openssl"
+brew "docker"
 
 # development tools
 brew "vim"
@@ -49,3 +53,5 @@ cask "viber"
 
 # media
 cask "spotify"
+cask "steam"
+cask "amazon-drive"
