@@ -24,6 +24,8 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 # link dotfiles
 rm ~/.gitconfig
 ln -s $PWD/.gitconfig ~/.gitconfig
+ln -s $PWD/.gitignore_global ~/.gitignore_global
+ln -s $PWD/.stCommitMsg ~/.stCommitMsg
 
 rm ~/.zshrc
 ln -s $PWD/.zshrc ~/.zshrc
